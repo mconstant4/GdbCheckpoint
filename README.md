@@ -2,6 +2,7 @@ Wrapper code for Lapidary tool (https://github.com/efeslab/lapidary)
 
 
 To Run Benchmark:
+	
 	./run.sh <Benchmark Directory> <Benchmark Name>
 		e.g. ./run.sh spec_cpu2017/benchspec/CPU/600.perlbench_s/run/run_base 600.perlbench_s
 
