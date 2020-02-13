@@ -8,6 +8,7 @@ To Run Benchmark:
 	Output is determined by chkpt_dir (set in bmks/<benchmark name>.py)
 
 To Add Benchmarks:
+
 	1)	create bmk python file in bmks directory. (<benchmark name>.py)
 		Follow template provided by existing python file in bmks directory to create new benchmark.
 
