@@ -1,0 +1,12 @@
+This tool is based on Lapidary (https://github.com/efeslab/lapidary).
+
+Usage:
+	(1) cd to directory of binary
+	(2) gdb -q -x /full/path/to/GdbCheckpoint/src/main.py
+
+For now, no command line args. Just modify main.py with binaries to
+run.
+
+src - Source files developed by URI to simplify Lapidary
+lapidary - Lapidary tool this is based on
+bin - Test binaries

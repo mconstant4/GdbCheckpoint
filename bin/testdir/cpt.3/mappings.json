@@ -1,0 +1,210 @@
+{
+    "mem_size": 4833280,
+    "0": {
+        "index": 0,
+        "paddr": 0,
+        "vaddr": 0,
+        "size": 4096,
+        "offset": 0,
+        "flags": 0,
+        "name": "null"
+    },
+    "93824992231424": {
+        "index": 1,
+        "paddr": 4096,
+        "vaddr": 93824992231424,
+        "size": 4096,
+        "offset": 0,
+        "flags": 0,
+        "name": "/u/ugrads/mconstant/research/sim/GdbCheckpoint/bin/test"
+    },
+    "93824992235520": {
+        "index": 2,
+        "paddr": 8192,
+        "vaddr": 93824992235520,
+        "size": 4096,
+        "offset": 4096,
+        "flags": 0,
+        "name": "/u/ugrads/mconstant/research/sim/GdbCheckpoint/bin/test"
+    },
+    "93824992239616": {
+        "index": 3,
+        "paddr": 12288,
+        "vaddr": 93824992239616,
+        "size": 4096,
+        "offset": 8192,
+        "flags": 0,
+        "name": "/u/ugrads/mconstant/research/sim/GdbCheckpoint/bin/test"
+    },
+    "93824992243712": {
+        "index": 4,
+        "paddr": 16384,
+        "vaddr": 93824992243712,
+        "size": 4096,
+        "offset": 8192,
+        "flags": 0,
+        "name": "/u/ugrads/mconstant/research/sim/GdbCheckpoint/bin/test"
+    },
+    "93824992247808": {
+        "index": 5,
+        "paddr": 20480,
+        "vaddr": 93824992247808,
+        "size": 4096,
+        "offset": 12288,
+        "flags": 0,
+        "name": "/u/ugrads/mconstant/research/sim/GdbCheckpoint/bin/test"
+    },
+    "93824992251904": {
+        "index": 6,
+        "paddr": 24576,
+        "vaddr": 93824992251904,
+        "size": 135168,
+        "offset": 0,
+        "flags": 0,
+        "name": "[heap]"
+    },
+    "140737351548928": {
+        "index": 7,
+        "paddr": 159744,
+        "vaddr": 140737351548928,
+        "size": 139264,
+        "offset": 0,
+        "flags": 0,
+        "name": "/lib64/libc-2.29.so"
+    },
+    "140737351688192": {
+        "index": 8,
+        "paddr": 299008,
+        "vaddr": 140737351688192,
+        "size": 1429504,
+        "offset": 139264,
+        "flags": 0,
+        "name": "/lib64/libc-2.29.so"
+    },
+    "140737353117696": {
+        "index": 9,
+        "paddr": 1728512,
+        "vaddr": 140737353117696,
+        "size": 307200,
+        "offset": 1568768,
+        "flags": 0,
+        "name": "/lib64/libc-2.29.so"
+    },
+    "140737353424896": {
+        "index": 10,
+        "paddr": 2035712,
+        "vaddr": 140737353424896,
+        "size": 16384,
+        "offset": 1871872,
+        "flags": 0,
+        "name": "/lib64/libc-2.29.so"
+    },
+    "140737353441280": {
+        "index": 11,
+        "paddr": 2052096,
+        "vaddr": 140737353441280,
+        "size": 8192,
+        "offset": 1888256,
+        "flags": 0,
+        "name": "/lib64/libc-2.29.so"
+    },
+    "140737353449472": {
+        "index": 12,
+        "paddr": 2060288,
+        "vaddr": 140737353449472,
+        "size": 24576,
+        "offset": 0,
+        "flags": 0,
+        "name": ""
+    },
+    "140737353945088": {
+        "index": 13,
+        "paddr": 2084864,
+        "vaddr": 140737353945088,
+        "size": 12288,
+        "offset": 0,
+        "flags": 0,
+        "name": "[vvar]"
+    },
+    "140737353957376": {
+        "index": 14,
+        "paddr": 2097152,
+        "vaddr": 140737353957376,
+        "size": 4096,
+        "offset": 0,
+        "flags": 0,
+        "name": "[vdso]"
+    },
+    "140737353961472": {
+        "index": 15,
+        "paddr": 2101248,
+        "vaddr": 140737353961472,
+        "size": 4096,
+        "offset": 0,
+        "flags": 0,
+        "name": "/lib64/ld-2.29.so"
+    },
+    "140737353965568": {
+        "index": 16,
+        "paddr": 2105344,
+        "vaddr": 140737353965568,
+        "size": 122880,
+        "offset": 4096,
+        "flags": 0,
+        "name": "/lib64/ld-2.29.so"
+    },
+    "140737354088448": {
+        "index": 17,
+        "paddr": 2228224,
+        "vaddr": 140737354088448,
+        "size": 32768,
+        "offset": 126976,
+        "flags": 0,
+        "name": "/lib64/ld-2.29.so"
+    },
+    "140737354121216": {
+        "index": 18,
+        "paddr": 2260992,
+        "vaddr": 140737354121216,
+        "size": 4096,
+        "offset": 155648,
+        "flags": 0,
+        "name": "/lib64/ld-2.29.so"
+    },
+    "140737354125312": {
+        "index": 19,
+        "paddr": 2265088,
+        "vaddr": 140737354125312,
+        "size": 4096,
+        "offset": 159744,
+        "flags": 0,
+        "name": "/lib64/ld-2.29.so"
+    },
+    "140737354129408": {
+        "index": 20,
+        "paddr": 2269184,
+        "vaddr": 140737354129408,
+        "size": 4096,
+        "offset": 0,
+        "flags": 0,
+        "name": ""
+    },
+    "140737488211968": {
+        "index": 21,
+        "paddr": 2273280,
+        "vaddr": 140737488211968,
+        "size": 139264,
+        "offset": 0,
+        "flags": 0,
+        "name": "[stack]"
+    },
+    "18446744073699065856": {
+        "index": 22,
+        "paddr": 2412544,
+        "vaddr": 18446744073699065856,
+        "size": 4096,
+        "offset": 0,
+        "flags": 0,
+        "name": "[vsyscall]"
+    }
+}

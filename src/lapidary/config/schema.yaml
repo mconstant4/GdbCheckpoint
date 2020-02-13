@@ -1,0 +1,33 @@
+gem5_features:
+  required: false
+  type: dict
+  valid_options:
+    syscall_trace: 
+      type: bool
+      required: false
+
+gem5_path:
+  required: true
+  type: PosixPath
+
+libc_path:
+  required: false
+  type: PosixPath
+
+gem5_flag_config_plugin:
+  required: false
+  type: PosixPath
+
+spec2017_config:
+  required: false
+  type: dict
+  valid_options:
+    spec2017_src_path:
+      required: true
+      type: PosixPath
+    workspace_path:
+      required: false
+      type: PosixPath
+      doc: "This is where the plugin will establish some symbolic links and 
+            build the source."
+            
